@@ -10,3 +10,6 @@ console.log(chalk.white.underline.inverse("Grover!!"))
 
 const msg = chalk.magenta.bold("Demo")
 console.log(msg)
+
+//Run the following command in PowerShell as an administrator:
+//Set-ExecutionPolicy RemoteSigned
